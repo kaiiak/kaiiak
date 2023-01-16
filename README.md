@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on GIANT NETWORK, but not game developer
 - 📫 Email me [aNxFi37X@outlook.com](mailto:aNxFi37X@outlook.com)
 
-[![kaiiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiiak&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![kaiiak's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kaiiak&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
