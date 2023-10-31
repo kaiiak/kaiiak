@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Nginx, etcd**
 
-- 📝 I regularly write articles on [blog.iakmai.com](blog.iakmai.com)
+- 📝 I regularly write articles on [blog.iakmai.com](https://blog.iakmai.com)
 
 - 💬 Ask me about **golang**
 
-- 📫 How to reach me **aNxFi37X@outlook.com**
+- 📫 How to reach me **[aNxFi37X@outlook.com](mailto:aNxFi37X@outlook.com)**
 
 <p align="left">
 </p>
