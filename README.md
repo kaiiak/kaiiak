@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KaKa</h1>
-<h3 align="center">Backend Engineer for a Voice Live Streaming App</h3>
+<!-- <h3 align="center">Backend Engineer for a Voice Live Streaming App</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiiak&label=Profile%20views&color=0e75b6&style=flat" alt="kaiiak" /> </p>
 
