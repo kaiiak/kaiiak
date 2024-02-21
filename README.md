@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiiak&label=Profile%20views&color=0e75b6&style=flat" alt="kaiiak" /> </p>
 
-- 🔭 I’m currently working on [GIANT NETWORK](https://github.com/giant-network)
+<!-- - 🔭 I’m currently working on [GIANT NETWORK](https://github.com/giant-network) -->
 
-- 🌱 I’m currently learning **Nginx, etcd**
+- 🌱 I’m currently learning **etcd**
 
 - 📝 I regularly write articles on [blog.iakmai.com](https://blog.iakmai.com)
 
