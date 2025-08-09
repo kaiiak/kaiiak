@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [blog.iakmai.com](https://blog.iakmai.com)
 
-- 💬 Ask me about **golang**
+- 💬 Ask me about **golang** **python**
 
 - 📫 How to reach me **[aNxFi37X@outlook.com](mailto:aNxFi37X@outlook.com)**
 
