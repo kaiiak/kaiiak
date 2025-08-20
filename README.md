@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently working on [GIANT NETWORK](https://github.com/giant-network) -->
 
-- 🌱 I’m currently learning **etcd**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📝 I regularly write articles on [blog.iakmai.com](https://blog.iakmai.com)
 
